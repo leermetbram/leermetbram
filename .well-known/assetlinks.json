@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "nl.leermetbram.app",
+      "sha256_cert_fingerprints": [
+        "B3:40:47:F4:32:7D:02:AB:5C:FB:3B:26:E0:59:82:42:89:10:D8:E1:36:19:CD:65:18:36:50:F8:22:7B:AE:82",
+        "A4:6B:91:B6:FC:27:77:C9:E4:F7:0A:4E:01:9C:DD:24:EE:CA:2C:B0:C7:6B:30:DC:B5:AA:40:58:98:06:B4:7C"
+      ]
+    }
+  }
+]
