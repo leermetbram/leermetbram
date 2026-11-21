@@ -1,0 +1,21 @@
+{
+  "background_color": "#aee6ff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Leer met Bram",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Leer met Bram",
+  "start_url": "/",
+  "theme_color": "#aee6ff",
+  "id": "nl.leermetbram.app",
+  "description": "Een vrolijk en leerzaam spel voor kinderen om spelenderwijs te ontdekken en te leren samen met Bram de beer.",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
